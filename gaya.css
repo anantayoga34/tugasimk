@@ -1,0 +1,136 @@
+body{
+	margin: 0;
+	text-align: center;
+	font-family: 'Baloo 2', cursive;
+	color: grey;
+}
+
+h1{
+	padding-top: 60px;
+	color: grey;
+	font-size: 5.5em;
+	margin: 0 auto;
+	font-family: 'Satisfy', cursive;
+}
+h2{
+	margin: 5px auto 0 auto;
+	color: grey;
+	font-family: 'Indie Flower', cursive;
+	font-size: 3.2em;
+	text-align: center;
+}
+h3{
+	margin: 5px auto 0 auto;
+	color: grey;
+	font-family: 'Indie Flower', cursive;
+	font-size: 2em;
+}
+h4{
+	text-align: right;
+	font-family: 'Indie Flower', cursive;
+	padding-right: 30px;
+}
+h5{
+	text-align: center;
+	font-family: 'Indie Flower', cursive;
+	padding-right: 30px;
+}
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #fff3cd;
+  border-spacing: 15%;
+  border-width: 5px;
+  width: 10%;
+  padding-bottom: 50px;
+}
+p{
+	padding: 15px 30px 15px 30px;
+	font-size: 1.2em;
+}
+.dist{
+  visibility: hidden;
+}
+.top{
+	background-color: #fff3cd;
+	position: relative;
+	padding-top: 15px;
+	margin: 0;
+	height: 750px;
+}
+.profil{
+	padding-bottom: 30px;
+  	padding-top: 20px;
+  	width: 50%;
+ 	margin: 10px auto 10px auto;
+ 	line-height: 2;
+  	text-align: middle;
+}
+.profil1{
+ 	width: 90%;
+	margin: 100px auto 100px auto;
+	text-align: left;
+	line-height: 2;
+	padding-bottom: 40px;	
+}
+.bottom{
+	background-color: #fff3cd;
+	text-align: center;
+	padding-top: 70px;
+	padding-bottom: 80px;
+}
+img{
+	position: relative;
+}
+.foto1{
+	width: 25%;
+	float: left;
+  	margin-right: 10%;
+}
+.foto2{
+	width: 25%;
+	float: right;
+	margin-left: 10%;
+}
+.foto3{
+	width: 25%;
+	float: left;
+	margin-right: 10%;
+}
+.pohon{
+	position: absolute;
+	left: 200px;
+	bottom: 270px;
+	width: 340px;
+	height: 280px;
+}
+.tas{
+	position: absolute;
+	right: 160px;
+	top: 190px;
+	width: 360px;
+	height: 400px;
+}
+.gunung{
+  	padding-top: 35px;
+  	height: 600px;
+  	width: 600px;
+}
+.diri1{
+	border-radius: 80%;
+  	padding: 30px;
+  	height: 350px;
+  	width: 350px;
+  	border-style: solid;
+  	border-color: #fff3cd;
+}
+.diri{
+	position: absolute;
+  	border-radius: 80%;
+  	height: 75px;
+  	width: 75px;
+  	left: 30px;
+  	top: 15px;
+  	border-style: dotted;
+  	border-color: white;
+}
